@@ -9,7 +9,7 @@
 </head>
 
 <body>
-	<h1><span style="color: #868e96">Заздравнов</span> <span class="text-secondary">Игорь</span></h1>
+	<h1 style="color: #868e96">Заздравнов Игорь</h1>
             <div class="subheading mb-5">ИТ-РЕШЕНИЯ И ВЕБ-РАЗРАБОТКА </div>
 				<h3>Обо мне</h3>
 				<p class="mb-5" style="max-width: 500px;" >Я являюсь опытным архитектором информационных систем, а также веб-разработчиком.</pp>
