@@ -3,8 +3,9 @@
 
 <head>
 <meta charset="utf-8" />
-<title>без имени</title>
+<title>Заздравнов Игорь</title>
 <meta name="generator" content="Geany 1.33" />
+<link href="style.css" rel="stylesheet">
 </head>
 
 <body>
