@@ -9,7 +9,7 @@
 </head>
 
 <body>
-	<h1 class="mb-0" id="1"><span class="text-primary">Заздравнов</span> <span class="text-secondary">Игорь</span></h1>
+	<h1><span style="color: blue">Заздравнов</span> <span class="text-secondary">Игорь</span></h1>
             <div class="subheading mb-5">ИТ-РЕШЕНИЯ И ВЕБ-РАЗРАБОТКА </div>
 				<h3>Обо мне</h3>
 				<p class="mb-5" style="max-width: 500px;" >Я являюсь опытным архитектором информационных систем, а также веб-разработчиком.</pp>
